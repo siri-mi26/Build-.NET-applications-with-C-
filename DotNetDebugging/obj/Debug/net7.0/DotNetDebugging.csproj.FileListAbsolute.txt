@@ -1,0 +1,15 @@
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.exe
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.deps.json
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.dll
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.dll
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\obj\Debug\net7.0\refint\DotNetDebugging.dll
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\purpl\Desktop\Build .NET applications with C#\DotNetDebugging\obj\Debug\net7.0\ref\DotNetDebugging.dll
